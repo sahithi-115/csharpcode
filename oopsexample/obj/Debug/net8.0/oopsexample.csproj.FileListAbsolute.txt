@@ -1,0 +1,15 @@
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.AssemblyInfo.cs
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\oopsexample\bin\Debug\net8.0\oopsexample.exe
+C:\Users\sahit\source\repos\oopsexample\bin\Debug\net8.0\oopsexample.deps.json
+C:\Users\sahit\source\repos\oopsexample\bin\Debug\net8.0\oopsexample.runtimeconfig.json
+C:\Users\sahit\source\repos\oopsexample\bin\Debug\net8.0\oopsexample.dll
+C:\Users\sahit\source\repos\oopsexample\bin\Debug\net8.0\oopsexample.pdb
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.dll
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\refint\oopsexample.dll
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.pdb
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.genruntimeconfig.cache
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\ref\oopsexample.dll
+C:\Users\sahit\source\repos\oopsexample\obj\Debug\net8.0\oopsexample.sourcelink.json

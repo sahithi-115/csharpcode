@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahit\\source\\repos\\operator precedence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EDBB9C-7613-499E-B219-4568840A4AC7}|operator precedence.csproj|c:\\users\\sahit\\source\\repos\\operator precedence\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EDBB9C-7613-499E-B219-4568840A4AC7}|operator precedence.csproj|solutionrelative:q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q10.cs",
+              "DocumentMoniker": "C:\\Users\\sahit\\source\\repos\\operator precedence\\Q10.cs",
+              "RelativeDocumentMoniker": "Q10.cs",
+              "ToolTip": "C:\\Users\\sahit\\source\\repos\\operator precedence\\Q10.cs",
+              "RelativeToolTip": "Q10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:55:12.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

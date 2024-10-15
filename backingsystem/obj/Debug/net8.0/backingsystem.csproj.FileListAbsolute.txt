@@ -1,0 +1,14 @@
+C:\Users\sahit\source\repos\backingsystem\bin\Debug\net8.0\backingsystem.exe
+C:\Users\sahit\source\repos\backingsystem\bin\Debug\net8.0\backingsystem.deps.json
+C:\Users\sahit\source\repos\backingsystem\bin\Debug\net8.0\backingsystem.runtimeconfig.json
+C:\Users\sahit\source\repos\backingsystem\bin\Debug\net8.0\backingsystem.dll
+C:\Users\sahit\source\repos\backingsystem\bin\Debug\net8.0\backingsystem.pdb
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.AssemblyInfo.cs
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.dll
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\refint\backingsystem.dll
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.pdb
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\backingsystem.genruntimeconfig.cache
+C:\Users\sahit\source\repos\backingsystem\obj\Debug\net8.0\ref\backingsystem.dll

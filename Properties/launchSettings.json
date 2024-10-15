@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "operator precedence": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

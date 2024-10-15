@@ -1,0 +1,14 @@
+C:\Users\sahit\source\repos\Staticanddynamic\bin\Debug\net8.0\Staticanddynamic.exe
+C:\Users\sahit\source\repos\Staticanddynamic\bin\Debug\net8.0\Staticanddynamic.deps.json
+C:\Users\sahit\source\repos\Staticanddynamic\bin\Debug\net8.0\Staticanddynamic.runtimeconfig.json
+C:\Users\sahit\source\repos\Staticanddynamic\bin\Debug\net8.0\Staticanddynamic.dll
+C:\Users\sahit\source\repos\Staticanddynamic\bin\Debug\net8.0\Staticanddynamic.pdb
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.AssemblyInfo.cs
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.dll
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\refint\Staticanddynamic.dll
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.pdb
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\Staticanddynamic.genruntimeconfig.cache
+C:\Users\sahit\source\repos\Staticanddynamic\obj\Debug\net8.0\ref\Staticanddynamic.dll

@@ -1,0 +1,15 @@
+C:\Users\sahit\source\repos\operator precedence\bin\Debug\net8.0\operator precedence.exe
+C:\Users\sahit\source\repos\operator precedence\bin\Debug\net8.0\operator precedence.deps.json
+C:\Users\sahit\source\repos\operator precedence\bin\Debug\net8.0\operator precedence.runtimeconfig.json
+C:\Users\sahit\source\repos\operator precedence\bin\Debug\net8.0\operator precedence.dll
+C:\Users\sahit\source\repos\operator precedence\bin\Debug\net8.0\operator precedence.pdb
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.AssemblyInfo.cs
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.dll
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\refint\operator precedence.dll
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.pdb
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.genruntimeconfig.cache
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\ref\operator precedence.dll
+C:\Users\sahit\source\repos\operator precedence\obj\Debug\net8.0\operator precedence.sourcelink.json

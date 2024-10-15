@@ -1,0 +1,14 @@
+C:\Users\sahit\source\repos\oopsexample1\bin\Debug\net8.0\oopsexample1.exe
+C:\Users\sahit\source\repos\oopsexample1\bin\Debug\net8.0\oopsexample1.deps.json
+C:\Users\sahit\source\repos\oopsexample1\bin\Debug\net8.0\oopsexample1.runtimeconfig.json
+C:\Users\sahit\source\repos\oopsexample1\bin\Debug\net8.0\oopsexample1.dll
+C:\Users\sahit\source\repos\oopsexample1\bin\Debug\net8.0\oopsexample1.pdb
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.AssemblyInfo.cs
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.dll
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\refint\oopsexample1.dll
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.pdb
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\oopsexample1.genruntimeconfig.cache
+C:\Users\sahit\source\repos\oopsexample1\obj\Debug\net8.0\ref\oopsexample1.dll

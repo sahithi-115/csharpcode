@@ -1,0 +1,14 @@
+C:\Users\sahit\source\repos\ConsoleApp6\bin\Debug\net8.0\Chatgptdemotest1.exe
+C:\Users\sahit\source\repos\ConsoleApp6\bin\Debug\net8.0\Chatgptdemotest1.deps.json
+C:\Users\sahit\source\repos\ConsoleApp6\bin\Debug\net8.0\Chatgptdemotest1.runtimeconfig.json
+C:\Users\sahit\source\repos\ConsoleApp6\bin\Debug\net8.0\Chatgptdemotest1.dll
+C:\Users\sahit\source\repos\ConsoleApp6\bin\Debug\net8.0\Chatgptdemotest1.pdb
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.AssemblyInfo.cs
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.dll
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\refint\Chatgptdemotest1.dll
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.pdb
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\Chatgptdemotest1.genruntimeconfig.cache
+C:\Users\sahit\source\repos\ConsoleApp6\obj\Debug\net8.0\ref\Chatgptdemotest1.dll
