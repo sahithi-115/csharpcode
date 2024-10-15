@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sahit\\source\\repos\\operator precedence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26EDBB9C-7613-499E-B219-4568840A4AC7}|operator precedence.csproj|c:\\users\\sahit\\source\\repos\\operator precedence\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26EDBB9C-7613-499E-B219-4568840A4AC7}|operator precedence.csproj|solutionrelative:q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahit\\source\\repos\\operator precedence\\Q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Q10.cs",
               "ToolTip": "C:\\Users\\sahit\\source\\repos\\operator precedence\\Q10.cs",
               "RelativeToolTip": "Q10.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T15:55:12.932Z",
               "EditorCaption": ""
