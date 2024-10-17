@@ -1,0 +1,15 @@
+C:\Users\sahit\source\repos\Stringdatatype\bin\Debug\net8.0\Stringdatatype.exe
+C:\Users\sahit\source\repos\Stringdatatype\bin\Debug\net8.0\Stringdatatype.deps.json
+C:\Users\sahit\source\repos\Stringdatatype\bin\Debug\net8.0\Stringdatatype.runtimeconfig.json
+C:\Users\sahit\source\repos\Stringdatatype\bin\Debug\net8.0\Stringdatatype.dll
+C:\Users\sahit\source\repos\Stringdatatype\bin\Debug\net8.0\Stringdatatype.pdb
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.AssemblyInfoInputs.cache
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.AssemblyInfo.cs
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.csproj.CoreCompileInputs.cache
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.sourcelink.json
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.dll
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\refint\Stringdatatype.dll
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.pdb
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\Stringdatatype.genruntimeconfig.cache
+C:\Users\sahit\source\repos\Stringdatatype\obj\Debug\net8.0\ref\Stringdatatype.dll
